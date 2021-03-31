@@ -17,9 +17,9 @@ App Icon is used from Flaticon:
 <html>
 <body>
 
-<img src="K:\Android Project Materials\FlipCoin_SplashS" width="110px" height="110px">
-<img src="K:\Android Project Materials\FlipCoin_AssignS" width="110px" height="110px">
-<img src="K:\Android Project Materials\FlipCoin_TossS" width="110px" height="110px">
+<img src="K:\Android Project Materials\FlipCoin_SplashS" width="250px" height="500px">
+<img src="K:\Android Project Materials\FlipCoin_AssignS" width="250px" height="500px">
+<img src="K:\Android Project Materials\FlipCoin_TossS" width="250px" height="500px">
 
 </body>
 </html>
