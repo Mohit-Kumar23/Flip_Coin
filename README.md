@@ -18,8 +18,12 @@ App Icon is used from Flaticon:
 <body>
 
 <img src="screenshots_img\FlipCoin_SplashS" width="200">
-<img src="screenshots_img\FlipCoin_AssignS" width="200>
+<img src="screenshots_img\FlipCoin_AssignS" width="200">
 <img src="screenshots_img\FlipCoin_TossS" width="200">
+
+![](screenshots_img\FlipCoin_SplashS)
+![](screenshots_img\FlipCoin_AssignS)
+![](screenshots_img\FlipCoin_TossS)
 
 </body>
 </html>
