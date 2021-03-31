@@ -18,7 +18,7 @@ App Icon is used from Flaticon:
 <body>
 
 <img src="screenshots_img\FlipCoin_SplashS" width="200">
-<img src="screenshots_img\FlipCoin_AssignS" width="200">
+<img src="https://github.com/Mohit-Kumar23/Flip_Coin/blob/main/screenshots_img/FlipCoin_AssignS.jpg" width="200">
 <img src="screenshots_img\FlipCoin_TossS" width="200">
 
 ![](screenshots_img\FlipCoin_SplashS)
