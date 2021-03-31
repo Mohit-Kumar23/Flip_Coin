@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flip Coin</string>
+    <string name="FlipCoinText">Flip<br>The</br><br>Coin</br></string>
+    <string name="game_on">GAME ON....</string>
+    <string name="heads">Heads</string>
+    <string name="assign_heads_to_something">Assign Head\'s to Something</string>
+    <string name="assign_tails_to_something">Assign Tail\'s to Something</string>
+</resources>
